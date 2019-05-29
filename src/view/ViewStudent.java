@@ -27,6 +27,10 @@ public class ViewStudent {
                     controllerStudent.Display();
                     break;
 
+                case 4:
+                    System.exit(1);
+                    break;
+
 
             }
 
